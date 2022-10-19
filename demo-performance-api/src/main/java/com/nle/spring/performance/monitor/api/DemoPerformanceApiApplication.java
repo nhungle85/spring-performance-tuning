@@ -1,4 +1,4 @@
-package com.nle.spring.performance.monitor.demoperformanceapi;
+package com.nle.spring.performance.monitor.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

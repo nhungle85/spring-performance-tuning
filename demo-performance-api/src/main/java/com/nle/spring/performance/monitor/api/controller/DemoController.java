@@ -1,4 +1,4 @@
-package com.nle.spring.performance.monitor.demoperformanceapi.controller;
+package com.nle.spring.performance.monitor.api.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.nle.spring.performance.monitor.demoperformanceapi.domain.GenericResponse;
-import com.nle.spring.performance.monitor.demoperformanceapi.service.DeviceService;
+import com.nle.spring.performance.monitor.api.domain.GenericResponse;
+import com.nle.spring.performance.monitor.api.service.DeviceService;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

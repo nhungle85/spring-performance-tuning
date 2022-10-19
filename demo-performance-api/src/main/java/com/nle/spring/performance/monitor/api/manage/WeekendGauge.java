@@ -1,4 +1,4 @@
-package com.nle.spring.performance.monitor.demoperformanceapi.manage;
+package com.nle.spring.performance.monitor.api.manage;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

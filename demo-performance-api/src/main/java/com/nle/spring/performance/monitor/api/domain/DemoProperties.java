@@ -1,7 +1,7 @@
 /**
  * This class is copied from kdflint for learning purpose
  */
-package com.nle.spring.performance.monitor.demoperformanceapi.domain;
+package com.nle.spring.performance.monitor.api.domain;
 
 import java.util.Properties;
 

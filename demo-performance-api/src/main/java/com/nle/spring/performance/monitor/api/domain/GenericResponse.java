@@ -1,4 +1,4 @@
-package com.nle.spring.performance.monitor.demoperformanceapi.domain;
+package com.nle.spring.performance.monitor.api.domain;
 
 public class GenericResponse {
 	private final long id;

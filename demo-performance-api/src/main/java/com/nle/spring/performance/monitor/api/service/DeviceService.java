@@ -1,11 +1,11 @@
-package com.nle.spring.performance.monitor.demoperformanceapi.service;
+package com.nle.spring.performance.monitor.api.service;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.nle.spring.performance.monitor.demoperformanceapi.domain.Device;
-import com.nle.spring.performance.monitor.demoperformanceapi.repository.DeviceRepository;
+import com.nle.spring.performance.monitor.api.domain.Device;
+import com.nle.spring.performance.monitor.api.repository.DeviceRepository;
 
 import lombok.AllArgsConstructor;
 
